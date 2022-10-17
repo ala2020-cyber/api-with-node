@@ -1,0 +1,51 @@
+[
+    {
+        "titre":"American Gril",
+        "genres": [ "Drama","Mystère","Thriller"],
+        "description":"À New York, la vie tellement parfaite d'une écrivaine vacille lorsqu'un documentaire sur un crime réel l'oblige à regarder en face son douloureux passé de lycéenne.",
+        "Réalisation":"Mike Barker",
+        "scénario":["Jessica Knoll"],
+        "castingPrincipal":["Mila Kunis","Chiara Aurelia","Finn Wittrock"]
+    },
+    {
+        "titre":"Halloween Ends",
+        "genres": [ "Horreur","Thriller"],
+        "description":"Quatre ans après la folie meurtrière à Haddonfield, Laurie affrontera pour la dernière fois Michael Myers, qui lui, était supposé disparu.",
+        "Réalisation":"David Gordon Green",
+        "scénario":["Jessica Knoll"],
+        "castingPrincipal":["John Carpenter","Debra Hill","Debra Hill"]
+    },
+    {
+        "titre":"Smile",
+        "genres": [ "Horreur"],
+        "description":"Après avoir été témoin d'un incident étrange et traumatisant impliquant un patient, la Dr Rose Cotter commence à vivre des événements effrayants. Rose doit affronter son passé pour échapper à cette réalité.",
+        "Réalisation":"Parker Finn",
+        "scénario":["Parker Finn"],
+        "castingPrincipal":["Sosie Bacon","Kyle Gallner","Jessie T. Usher"]
+    },
+    {
+        "titre":"Amsterdam",
+        "genres": [ "Comédie", "Drame", "Historique"],
+        "description":"rois amis qui sont témoins d'un meurtre deviennent eux-mêmes des suspects et découvrent l'un des complots les plus scandaleux de l'histoire américaine.",
+        "Réalisation":"David O. Russell",
+        "scénario":["David O. Russell"],
+        "castingPrincipal":["Christian Bale","Margot Robbie","John David Washingtoner"]
+    },
+    {
+        "titre":"Bullet Train",
+        "genres": [ "Comédie", "Action", "Thriller"],
+        "description":"Cinq assassins à bord d'un train à grande vitesse découvrent que leurs missions ont quelque chose en commun.",
+        "Réalisation":"David Leitch",
+        "scénario":["Zak Olkewicz","Kôtarô Isaka"],
+        "castingPrincipal":["Brad Pitt. Joey King","Aaron Taylor-Johnson"]
+    },
+    {
+        "titre":"The Woman King",
+        "genres": [ "Drame", "Action", "Historique"],
+        "description":"Au XIXᵉ siècle, le royaume du Dahomey est menacé par le royaume d'Oyo. Les Agojie, une unité de combattante, forment de nouvelle recrue afin d'être prête à défendre leur peuple, le moment de la confrontation venue.",
+        "Réalisation":"Gina Prince-Bythewood",
+        "scénario":["Dana Stevens","Maria Bello"],
+        "castingPrincipal":["Viola Davis. Joey King","Thuso Mbedu","Lashana Lynch"]
+    }
+
+]
