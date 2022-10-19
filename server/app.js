@@ -4,13 +4,15 @@
 const express= require('express')
 const {connectToDb,getDb} = require('./db')
 const {ObjectId} =require('mongodb')
+const cors=require('cors')
 
 const app= express()
 
 //middlewares
 
 app.use(express.json())
-
+app.use(cors())
+app.use(express.static('../client'))
 
 // database connection 
 let db
